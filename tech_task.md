@@ -17,9 +17,9 @@ We have 2 assignments that you can choose from. Pick one to work on.
 ### Frontend focused tech assignment
 
 - Make a visual web app that uses one of the public APIs here:
-	- https://github.com/public-apis/public-apis
-	- https://data.gov.sg
-	- https://www.mytransport.sg/content/mytransport/home/dataMall.html 
+	- <https://github.com/public-apis/public-apis>
+	- <https://data.gov.sg>
+	- <https://www.mytransport.sg/content/mytransport/home/dataMall.html>
 - Use React JS to build the dynamic web app
 - This web application should have the following features:
 	- An **About Me** page with a few paragraphs describing who you are, why you want to be part of the TechLadies Bootcamp, and include one image (it can be a photo of yourself or anything you like (cats are always a good option!))
@@ -50,12 +50,13 @@ To stand out from the rest, you are highly encouraged to not follow a single onl
 
 ## Submitting Your Entry
 
-After you have finished building your personal website, you will need to share the source code with us. You should do so:
+1. After you have finished building your personal website, you will need to share the source code with us. You should do so:
 
-- Through a link to a Git repository on GitHub or Bitbucket (its free!)
-- Through a link to a Zip file) on Dropbox or Google Drive.
+	- Through a link to a Git repository on [GitHub](https://github.com) or [Bitbucket](https://bitbucket.com) (its free!)
+	- Through a link to a Zip file on [Dropbox](https://dropbox.com) or [Google Drive](https://drive.google.com).
+	- Upload here: <https://www.dropbox.com/request/ANS4XiODwE9VIdZdBB4y>
 
-Visit [fill in url for new form here]
+2. Visit [link here]
 
 ## How do I get started?
 
