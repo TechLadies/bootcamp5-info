@@ -1,20 +1,20 @@
 # Technical Task
 
-## Introduction
+## 🥇 Introduction
 
 The TechLadies Bootcamp #5 is a 13-week part-time accelerated learning program designed for women who wish to be professional programmers. Participants will be guided by industry experts to create products for REACH Community Services OR the Singapore Committee for UN Women.
 
 Visit the bootcamp info page for more details.
 
-## The Technical Task
+## 🛠 The Technical Task
 
 To apply to the bootcamp, you need to complete a technical task that will help us evaluate your technical capabilities. 
 
 We are here to help you acquire the skills you need to complete the task with 3 pre-bootcamp workshops covering: HTML, CSS, JavaScript, NodeJS, and ReactJS. 
 
-We have 2 assignments that you can choose from. Pick one to work on.
+We have 2 assignments that you can choose from. **Choose one to work on.**
 
-### 1) Frontend focused tech assignment
+### 1) 🏞 Frontend focused tech assignment
 
 - Make a visual web app that uses the Weather Forecast public APIs here:
 	- <https://data.gov.sg/dataset/weather-forecast>
@@ -30,7 +30,7 @@ We have 2 assignments that you can choose from. Pick one to work on.
 	- Store the results in a database.
 	- Cache the results from the API calls.
 
-### 2) Backend focused tech assignment
+### 2) 🚌 Backend focused tech assignment
 
 - Build a JSON API service that will tell me the distance travelled on a bus route between 2 bus stops.
 - Given **bus number**, **starting bus stop code**, **ending bus stop code**, and **direction**.
@@ -49,11 +49,11 @@ We have 2 assignments that you can choose from. Pick one to work on.
 	- Record the history of API calls made by users
 	- Cache the results so that you don't make multiple calls to the database.
 
-### Hat tip:
+### 🎩 Hat tip:
 
 To stand out from the rest, you are highly encouraged to not follow a single online tutorial to the T. Do read up on multiple resources to understand the concepts or google your way to finding how to accomplish what you want to code.
 
-## Submitting Your Entry
+## 📬 Submitting Your Entry
 
 1. After you have finished building your personal website, you will need to share the source code with us. You should do so:
 
@@ -63,7 +63,7 @@ To stand out from the rest, you are highly encouraged to not follow a single onl
 
 2. Visit [link here]
 
-## How do I get started?
+## 🎯 How do I get started?
 
 Join us at our upcoming pre-bootcamp workshops where we will teach you the skills to complete the Technical Task! 
 
@@ -73,7 +73,7 @@ Join us at our upcoming pre-bootcamp workshops where we will teach you the skill
 - Workshop #3 on 14 Sep, 1 - 6pm: [url to RSVP]
 - Code Clinic (21 Sept 2019)
 
-### Online Resources
+### 🖥 Online Resources
 
 Remember, we have lots of online resources to help you out!
 
@@ -98,7 +98,7 @@ Remember, we have lots of online resources to help you out!
 	- [Running a Create React App + Express App to Heroku](https://originmaster.com/running-create-react-app-and-express-crae-on-heroku-c39a39fe7851)
 
 
-## Questions?
+## 💡 Questions?
 
 If you have any other questions regarding the task, do contact **coaches@techladies.co**.
 
