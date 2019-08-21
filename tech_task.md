@@ -12,33 +12,38 @@ To apply to the bootcamp, you need to complete a technical task that will help u
 
 We are here to help you acquire the skills you need to complete the task with 3 pre-bootcamp workshops covering: HTML, CSS, JavaScript, NodeJS, and ReactJS. 
 
-We have 2 assignments that you can choose from. Pick one to work on. 
+We have 2 assignments that you can choose from. Pick one to work on.
 
-### Frontend focused tech assignment
+### 1) Frontend focused tech assignment
 
-- Make a visual web app that uses one of the public APIs here:
-	- <https://github.com/public-apis/public-apis>
-	- <https://data.gov.sg>
-	- <https://www.mytransport.sg/content/mytransport/home/dataMall.html>
-- Use React JS to build the dynamic web app
+- Make a visual web app that uses the Weather Forecast public APIs here:
+	- <https://data.gov.sg/dataset/weather-forecast>
+- Use [React JS](https://reactjs.org/) to build the dynamic web app.
 - This web application should have the following features:
 	- An **About Me** page with a few paragraphs describing who you are, why you want to be part of the TechLadies Bootcamp, and include one image (it can be a photo of yourself or anything you like (cats are always a good option!))
-	- A **Data Display** page From the public API you have chosen to integrate with, create a page to display the retrieved data. It could be a simple table element, or using map markers with map interface (e.g. https://developers.google.com/maps/documentation/)
+	- A **Weather Forecast** page from the public API above, create a page to display the retrieved data. It could be a simple table element, or using map markers with map interface (e.g. <https://developers.google.com/maps/documentation/>)
 	- A navigation bar which allows you to navigate between the About Me and Data Display page.
-- Brownie points:
+
+- **Brownie points:**
 	- Create a form where you can interact with (or manipulate) the data from the API, adding options to sort or filter the data to affect the display in the Data Display page.
 	- Show a history of all the requests made.
 	- Store the results in a database.
 	- Cache the results from the API calls.
 
-### Backend focused tech assignment
+### 2) Backend focused tech assignment
 
 - Build a JSON API service that will tell me the distance travelled on a bus route between 2 bus stops.
-- Given bus number, starting bus stop code and ending bus stop code, and direction
-- Show the distance travelled between the bus stops
-- Database of bus-routes will be provided in a JSON format later.
+- Given **bus number**, **starting bus stop code**, **ending bus stop code**, and **direction**.
+- Show the distance travelled between the bus stops.
+- You can find the seed data here:
+	- [routes.json](./tech_task/routes.json)
+	- [services.json](./tech_task/services.json)
+	- [stops.json](./tech_task/stops.json)
+
+	*(downloaded from [Haoyi's Programming Blog](http://www.lihaoyi.com/post/PlanningBusTripswithPythonSingaporesSmartNationAPIs.html). Originates from [LTA Datamall](https://www.mytransport.sg/content/mytransport/home/dataMall.html))*
 - Save the data into a local database.
-- Brownie points:
+
+- **Brownie points:**
 	- Calculate the current fare rate (assuming: Adult fare, Cash payment only)
 	- Protect your API with authentication
 	- Record the history of API calls made by users
@@ -54,7 +59,7 @@ To stand out from the rest, you are highly encouraged to not follow a single onl
 
 	- Through a link to a Git repository on [GitHub](https://github.com) or [Bitbucket](https://bitbucket.com) (its free!)
 	- Through a link to a Zip file on [Dropbox](https://dropbox.com) or [Google Drive](https://drive.google.com).
-	- Upload here: <https://www.dropbox.com/request/ANS4XiODwE9VIdZdBB4y>
+	- Create a new repo and [push your commits in](https://help.github.com/en/articles/pushing-commits-to-a-remote-repository).
 
 2. Visit [link here]
 
@@ -63,15 +68,38 @@ To stand out from the rest, you are highly encouraged to not follow a single onl
 Join us at our upcoming pre-bootcamp workshops where we will teach you the skills to complete the Technical Task! 
 
 - Install Fest (29 Aug 2019)
-- Workshop #1 on 31 Aug, 1 - 6pm: [url to RSVP]
+- Workshop #1 on 31 Aug, 1 - 6pm
 - Workshop #2 on 7 Sep, 1 - 6pm: [url to RSVP]
 - Workshop #3 on 14 Sep, 1 - 6pm: [url to RSVP]
 - Code Clinic (21 Sept 2019)
 
+### Online Resources
+
 Remember, we have lots of online resources to help you out!
+
+- JavaScript
+	- [Introduction to JavaScript on Codeacademy](https://www.codecademy.com/learn/introduction-to-javascript)
+	- [ES6 tutorial for beginners](https://codeburst.io/es6-tutorial-for-beginners-5f3c4e7960be)
+- React
+	- [Official React tutorial](https://reactjs.org/docs/hello-world.html)
+	- [Building a todo app with React](https://scotch.io/tutorials/create-a-simple-to-do-app-with-react)
+	- [Getting started with React with Create React App](https://github.com/facebook/create-react-app)
+	- [A Comprehensive Guide to Building Apps with React](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
+- Express
+	- [Hello world Express starter](https://expressjs.com/en/starter/hello-world.html)
+	- [MDN Express and NodeJS tutorial series](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+- React + Express
+	- [Create React App with an Express backend](https://daveceddia.com/create-react-app-express-backend/)
+	- [The PERN stack](https://dandreamsofcoding.com/2016/07/25/the-pern-stack/)
+- React + Heroku
+	- [Deploying Create React App to Heroku with zero configuration](https://blog.heroku.com/deploying-react-with-zero-configuration)
+- React + Express + Heroku
+	- [Deploying a React + Express App to Heroku](https://daveceddia.com/deploy-react-express-app-heroku/)
+	- [Running a Create React App + Express App to Heroku](https://originmaster.com/running-create-react-app-and-express-crae-on-heroku-c39a39fe7851)
+
 
 ## Questions?
 
 If you have any other questions regarding the task, do contact **coaches@techladies.co**.
 
-To ask a technical question or get help for bugs you're facing, please join our Facebook group and ask them there.
+To ask a technical question or get help for bugs you're facing, please [join our Facebook group and ask them there](https://www.facebook.com/groups/techladiescode).
