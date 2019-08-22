@@ -2,7 +2,7 @@
 
 1. [Technical Task](./tech_task.md)
 2. [Pre-Requisite Software](./pre_requisite_software.md)
-3. **Pre-Bootcamp Workshop**
+3. **[Pre-Bootcamp Workshop](./pre_bootcamp_workshop.md)**
 	- Install Fest (29 Aug 2019) - *to help you with installing the [pre-requisite software](./pre_requisite_software.md)*
 	- Workshop 1: HTML & CSS (31 Aug 2019)
 	- Workshop 2: JavaScript & NodeJS (7 Sept 2019)
