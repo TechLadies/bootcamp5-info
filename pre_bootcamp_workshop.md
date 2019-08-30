@@ -12,6 +12,14 @@ A decade and a half later, Sheldon has crafted web interfaces at UX-focused digi
 
 <https://www.linkedin.com/in/shldn/>
 
+### Slides
+
+<http://bit.ly/tl-ws1-2019>
+
+### Workshop files
+
+http://bit.ly/tl-starter
+
 ## Workshop 2: JavaScript & NodeJS (7 Sept 2019)
 
 #### Lead Trainer: Min Ong
