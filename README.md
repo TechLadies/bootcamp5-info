@@ -9,6 +9,7 @@
 		- Workshop files (<http://bit.ly/tl-starter>)
 		- Video (<https://engineers.sg/v/3628>)
 	- Workshop 2: JavaScript & NodeJS (7 Sept 2019)
+    	- Workshop files (<https://github.com/TechLadies/pre-bootcamp-workshop2-2019>)
 	- Workshop 3: React JS (14 Sept 2019)
 	- Code Clinic (21 Sept 2019) - *To help you with fixing isues you might have with your code.*
 
