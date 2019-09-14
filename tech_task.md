@@ -24,6 +24,7 @@ We have 2 assignments that you can choose from. **Choose one to work on.**
 	- A navigation bar which allows you to navigate between the **About Me** and **Contact Me** Display page.
 
 - **Stretch goal:**
+    - *__You don't need to do this, and we won't mark you down if you ignore this section.__*
     - Use the Weather Forecast public APIs here (<https://data.gov.sg/dataset/weather-forecast>) to add a weather forecast page to your website.
     - The **Weather Forecast** page should use the public API (<https://data.gov.sg/dataset/weather-forecast>), create a page to display the retrieved data. It could be a simple table element, or using map markers with map interface (e.g. <https://developers.google.com/maps/documentation/>)
 
