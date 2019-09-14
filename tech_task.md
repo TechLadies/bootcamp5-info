@@ -16,19 +16,16 @@ We have 2 assignments that you can choose from. **Choose one to work on.**
 
 ### 1) 🏞 Frontend focused tech assignment
 
-- Make a visual web app that uses the Weather Forecast public APIs here:
-	- <https://data.gov.sg/dataset/weather-forecast>
-- Use [React JS](https://reactjs.org/) to build the dynamic web app.
+- Make a visual web app that shows us how much you know about building a website.
+- We recommend using [React JS](https://reactjs.org/) to build the dynamic web app.
 - This web application should have the following features:
 	- An **About Me** page with a few paragraphs describing who you are, why you want to be part of the TechLadies Bootcamp, and include one image (it can be a photo of yourself or anything you like (cats are always a good option!))
-	- A **Weather Forecast** page from the public API above, create a page to display the retrieved data. It could be a simple table element, or using map markers with map interface (e.g. <https://developers.google.com/maps/documentation/>)
-	- A navigation bar which allows you to navigate between the About Me and Data Display page.
+	- A **Contact Me** page with info on how to reach you online (eg. LinkedIn, GitHub, Twitter).
+	- A navigation bar which allows you to navigate between the **About Me** and **Contact Me** Display page.
 
-- **Brownie points:**
-	- Create a form where you can interact with (or manipulate) the data from the API, adding options to sort or filter the data to affect the display in the Data Display page.
-	- Show a history of all the requests made.
-	- Store the results in a database.
-	- Cache the results from the API calls.
+- **Stretch goal:**
+    - Use the Weather Forecast public APIs here (<https://data.gov.sg/dataset/weather-forecast>) to add a weather forecast page to your website.
+    - The **Weather Forecast** page should use the public API (<https://data.gov.sg/dataset/weather-forecast>), create a page to display the retrieved data. It could be a simple table element, or using map markers with map interface (e.g. <https://developers.google.com/maps/documentation/>)
 
 ### 2) 🚌 Backend focused tech assignment
 
