@@ -13,7 +13,7 @@
         - Workshop files (<https://github.com/TechLadies/pre-bootcamp-workshop2-2019>)
         - Video (<https://engineers.sg/v/3644>)
 	- Workshop 3: React JS (14 Sept 2019)
-    	- Slides (refer to the `slides` folder inside the workshop repo)
+    	- Slides (<https://cranky-mestorf-4b4410.netlify.com/>)
     	- Workshop files (<https://github.com/TechLadies/pre-bootcamp-workshop3-2019>)
 	- Code Clinic (21 Sept 2019) - *To help you with fixing isues you might have with your code.*
 
