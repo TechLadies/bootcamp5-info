@@ -15,5 +15,6 @@
 	- Workshop 3: React JS (14 Sept 2019)
     	- Slides (<https://techladies-pre-bootcamp-workshop3-2019.netlify.com>)
     	- Workshop files (<https://github.com/TechLadies/pre-bootcamp-workshop3-2019>)
+			- Video (<https://engineers.sg/v/3654>)
 	- Code Clinic (21 Sept 2019) - *To help you with fixing isues you might have with your code.*
 
