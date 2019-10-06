@@ -11,6 +11,7 @@
 - UI/UX Designers
 - Dev Coaches
 - Curriculum Coaches
+- Bootcamp Participants
 
 ## Development Team Organization
 
@@ -73,6 +74,7 @@
     - Dev Coaches
     - Bootcamp participants
     - NGO stakeholders (optional)
+    - UI/UX Designers (optional)
 - **What:**
     - When user stories are done, Product Lead can review the feature once they are deployed to staging.
     - Backend stories are accepted by the front-end devs / coaches
@@ -120,23 +122,3 @@
         - Stick on Retro Board together. We’ll group similar post-its.
         - Go through together and you are encouraged to discuss freely.
         - Distill out action items as we go along.
-
-## Timeline (Tentative)
-
-| Week | Date        | Program  |
-|:----:|-------------|:---------|
-| 1    | 19 Oct 2019 | Kick-off, Setup (repo & CI/CD), Workshop 1 |
-| 2    | 26 Oct 2019 | IPM, Workshop 2, Coding Session |
-| 3    | 2 Nov 2019  | Coding Session |
-| 4    | 9 Nov 2019  | IPM, Workshop 3, Coding Session |
-| 5    | 16 Nov 2019 | Retro, Coding Session |
-| 6    | 23 Nov 2019 | IPM, Workshop 4, Coding Session |
-| 7    | 30 Nov 2019 | Coding Session |
-| 8    | 7 Dec 2019  | IPM, Workshop 5, Coding Session |
-| 9    | 14 Dec 2019 | Retro, Coding Session |
-| -    | 21 Dec 2019 | Holiday Break |
-| -    | 28 Dec 2019 | Holiday Break |
-| 10   | 5 Jan 2020  | IPM, Workshop 6, Coding Session |
-| 11   | 11 Jan 2020 | Coding Session |
-| 12   | 18 Jan 2020 | IPM, Workshop 7, Coding Session |
-| 13   | 25 Jan 2020 | Retro, Coding Session |

@@ -2,7 +2,7 @@
 
 1. [Technical Task](./tech_task.md)
 2. [Pre-Requisite Software](./pre_requisite_software.md)
-3. **[Pre-Bootcamp Workshop](./pre_bootcamp_workshop.md)**
+3. [Pre-Bootcamp Workshop](./pre_bootcamp_workshop.md)
 	- Install Fest (29 Aug 2019) - *to help you with installing the [pre-requisite software](./pre_requisite_software.md)*
 	- Workshop 1: HTML & CSS (31 Aug 2019)
 		- Slides (<http://bit.ly/tl-ws1-2019>)
@@ -17,4 +17,5 @@
     	- Workshop files (<https://github.com/TechLadies/pre-bootcamp-workshop3-2019>)
 			- Video (<https://engineers.sg/v/3654>)
 	- Code Clinic (21 Sept 2019) - *To help you with fixing isues you might have with your code.*
-4. [Development Workflow](./dev_workflow.md)
+4. **[Development Workflow](./dev_workflow.md)**
+5. [Bootcamp Timeline](./bootcamp_timeline.md)
