@@ -4,20 +4,21 @@
 
 | Week | Date        | Program  |
 |:----:|-------------|:---------|
-| 1    | 19 Oct 2019 | Kick-Off, [IPM][], Setup (Repo & CI/CD) |
-| 2    | 26 Oct 2019 | [Workshop 1][workshop], [Coding Session][] |
-| 3    | 2 Nov 2019  | [IPM][], [Coding Session][] |
-| 4    | 9 Nov 2019  | [Workshop 2][workshop], [Coding Session][] |
-| 5    | 16 Nov 2019 | [IPM][], [Retro][], [Coding Session][] |
-| 6    | 23 Nov 2019 | [Workshop 3][workshop], [Coding Session][] |
-| 7    | 30 Nov 2019 | [IPM][], [Coding Session][] |
-| 8    | 7 Dec 2019  | [Workshop 4][workshop], [Coding Session][] |
-| 9    | 14 Dec 2019 | [Retro][], [Coding Session][] |
+| 1    | 26 Oct 2019 | Kick-Off, [Workshop 1][workshop], [IPM][], Setup (Repo & CI/CD) |
+| 2    | 2 Nov 2019  | [Coding Session][] |
+| 3    | 9 Nov 2019  | [IPM][], [Workshop 2][workshop], [Coding Session][] |
+| 4    | 16 Nov 2019 | [Coding Session][], [Retro][]|
+| 5    | 23 Nov 2019 | [IPM][], [Workshop 3][workshop], [Coding Session][] |
+| 6    | 30 Nov 2019 | [Coding Session][] |
+| 7    | 7 Dec 2019  | [IPM][], [Workshop 4][workshop], [Coding Session][] |
+| 8    | 14 Dec 2019 | [Retro][], [Coding Session][] |
 | -    | 21 Dec 2019 | Holiday Break |
 | -    | 28 Dec 2019 | Holiday Break |
-| 10   | 5 Jan 2020  | [IPM][], [Workshop 5][workshop], [Coding Session][] |
-| 11   | 11 Jan 2020 | [Coding Session][] |
-| 12   | 18 Jan 2020 | [Retro][], [Coding Session][] |
+| 9    | 5 Jan 2020  | [IPM][], [Coding Session][] |
+| 10   | 11 Jan 2020 | [Workshop 5][workshop], [Coding Session][] |
+| 11   | 18 Jan 2020 | [Coding Session][] |
+| -    | 25 Jan 2020 | Chinese New Year |
+| 12   | 1 Feb 2020  | [Retro][], [Coding Session][] |
 
 ## Week 1 Agenda
 
