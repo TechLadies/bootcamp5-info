@@ -27,6 +27,7 @@
     - Go through Trello story board
     - Product lead to share about the deliverables and what MVP looks like
     - UI/UX Designers to share wireframes & design
+- Workshop 1: Git, GitHub and the GitHub flow, Database fundamentals
 - Setup (Repo & CI/CD)
     - Form up the 3 dev teams - 2x Front-End and 1x Backend team
     - Pick up the first tech task:
@@ -36,7 +37,6 @@
 
 ## Week 2 Agenda
 
-- Workshop 1: Git, GitHub and the GitHub flow
 - Coding Session: teams work on user stories
 
 ## Week 3 Agenda
@@ -44,6 +44,7 @@
 - Iteration Planning Meeting (IPM)
     - Go through Trello story board
     - Estimation of user stories
+- Workshop 2: TBC
 - Coding Session: teams work on user stories
 
 [IPM]: ./dev_workflow.md#iteration-planning-meeting-ipm "Iteration Planning Meeting"
