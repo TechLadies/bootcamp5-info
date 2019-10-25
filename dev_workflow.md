@@ -1,6 +1,6 @@
 # Development Workflow
 
-**Updated:** _Sun, 6 Oct 2019_
+**Updated:** _Fri, 25 Oct 2019_
 
 ## Roles
 
@@ -27,7 +27,7 @@
     - 2x Coaches
     - 2x Participants
 
-## Iteration Planning Meeting (IPM)
+## Sprint Planning
 
 - **Period:** Every 2 weeks (1 hour)
 - **Participants:**
