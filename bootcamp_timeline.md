@@ -30,19 +30,18 @@
 - Workshop 1:
     - Database fundamentals
     - Git, GitHub and the GitHub flow
-- Coding Session: Iteration Zero Setup (Repo & CI/CD)
-    - Form up the 3 dev teams - 2x Front-End and 1x Backend team
-    - Pick up the first tech task:
-        - Create GitHub Repo from the Starter Kit Template
-        - Setup Circle-CI for Continuous Integration testing
-        - Create staging Heroku app, auto deploy from the GitHub repo (`master` branch)
 
 ## Week 2 Agenda
 
 - Sprint Planning (SP)
     - Go through user stories in Trello
     - Estimation of user stories
-- Coding Session: teams work on user stories
+- Coding Session: Project Setup (Repo & CI/CD)
+    - Pick up the first tech task:
+        - Create GitHub Repo from the Starter Kit Template
+        - Setup Circle-CI for Continuous Integration testing
+        - Create staging Heroku app, auto deploy from the GitHub repo (`master` branch)
+    - Pick up user stories & work on them with coaches
 
 ## Week 3 Agenda
 
