@@ -1,6 +1,6 @@
 # Bootcamp Timeline
 
-**Updated:** _Fri, 25 Oct 2019_
+**Updated:** _Sat, 9 Nov 2019_
 
 | Week | Date        | Program  |
 |:----:|-------------|:---------|
@@ -10,8 +10,8 @@
 | 4    | 16 Nov 2019 | [SP][], [Coding Session][], [Retro][]|
 | 5    | 23 Nov 2019 | [Workshop 3][workshop], [Coding Session][] |
 | 6    | 30 Nov 2019 | [SP][], [Coding Session][] |
-| 7    | 7 Dec 2019  | [Workshop 4][workshop], [Coding Session][] |
-| 8    | 14 Dec 2019 | [Retro][], [Coding Session][] |
+| 7    | 7 Dec 2019  | [Coding Session][] |
+| 8    | 14 Dec 2019 | [Workshop 4][workshop], [Retro][], [Coding Session][] |
 | -    | 21 Dec 2019 | Holiday Break |
 | -    | 28 Dec 2019 | Holiday Break |
 | 9    | 5 Jan 2020  | [SP][], [Coding Session][] |
@@ -45,10 +45,29 @@
 
 ## Week 3 Agenda
 
-- Sprint Planning (SP)
-    - Go through Trello story board
-- Workshop 2: TBC
+- Workshop 2: Working with a database (CRUD)
 - Coding Session: teams work on user stories
+
+## Week 4 Agenda
+
+- Sprint Planning (SP)
+    - Go through user stories in Trello
+    - Estimation of user stories
+- Coding Session: teams work on user stories
+- Retrospective
+
+## Week 5 Agenda
+
+- Workshop 3: TBC
+- Coding Session: teams work on user stories
+
+## Week 6 Agenda
+
+- Sprint Planning (SP)
+    - Go through user stories in Trello
+    - Estimation of user stories
+- Coding Session: teams work on user stories
+
 
 [SP]: ./dev_workflow.md#sprint-planning "Sprint Planning"
 [Coding Session]: ./dev_workflow.md#coding-sessions "Coding Sessions"
