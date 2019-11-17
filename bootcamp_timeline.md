@@ -58,16 +58,110 @@
 
 ## Week 5 Agenda
 
-- Workshop 3: TBC
-- Coding Session: teams work on user stories
+- **Participants:**
+    - Tech Lead
+    - Dev Coaches
+    - Curriculum Coaches
+    - Bootcamp participants
+
+- **What:**
+    - Workshop 3: TBC
+    - Coding Session: teams work on user stories
 
 ## Week 6 Agenda
 
-- Sprint Planning (SP)
-    - Go through user stories in Trello
-    - Estimation of user stories
-- Coding Session: teams work on user stories
+- **Participants:**
+    - Product Lead
+    - Tech Lead
+    - Dev Coaches
+    - Bootcamp participants
+    - UI/UX Designers
 
+- **What:**
+    - Sprint Planning (SP)
+        - Go through user stories in Trello
+        - Estimation of user stories
+    - Coding Session: teams work on user stories
+
+## Week 7 Agenda
+
+- **Participants:**
+    - Tech Lead
+    - Dev Coaches
+    - Bootcamp participants
+
+- **What:**
+    - Coding Session: teams work on user stories
+
+## Week 8 Agenda
+
+- **Participants:**
+    - Product Lead
+    - Tech Lead
+    - Dev Coaches
+    - Curriculum Coaches
+    - Bootcamp participants
+    - UI/UX Designers
+
+- **What:**
+    - Workshop 4: TBC
+    - Retrospective
+    - Coding Session: teams work on user stories
+
+## Week 9 Agenda
+
+- **Participants:**
+    - Product Lead
+    - Tech Lead
+    - Dev Coaches
+    - Bootcamp participants
+    - UI/UX Designers
+
+- **What:**
+    - Sprint Planning (SP)
+        - Go through user stories in Trello
+        - Estimation of user stories
+    - Coding Session: teams work on user stories
+
+## Week 10 Agenda
+
+- **Participants:**
+    - Tech Lead
+    - Dev Coaches
+    - Curriculum Coaches
+    - Bootcamp participants
+
+- **What:**
+    - Workshop 5: TBC
+    - Coding Session: teams work on user stories
+
+## Week 11 Agenda
+
+- **Participants:**
+    - Product Lead
+    - Tech Lead
+    - Dev Coaches
+    - Bootcamp participants
+    - UI/UX Designers
+
+- **What:**
+    - Sprint Planning (SP)
+        - Go through user stories in Trello
+        - Estimation of user stories
+    - Coding Session: teams work on user stories
+
+## Week 12 Agenda
+
+- **Participants:**
+    - Product Lead
+    - Tech Lead
+    - Dev Coaches
+    - Bootcamp participants
+    - UI/UX Designers
+
+- **What:**
+    - Retrospective
+    - Coding Session: teams work on user stories
 
 [SP]: ./dev_workflow.md#sprint-planning "Sprint Planning"
 [Coding Session]: ./dev_workflow.md#coding-sessions "Coding Sessions"
