@@ -1,6 +1,6 @@
 # Bootcamp Timeline
 
-**Updated:** _Sat, 9 Nov 2019_
+**Updated:** _Sun, 24 Nov 2019_
 
 | Week | Date        | Program  |
 |:----:|-------------|:---------|
@@ -14,7 +14,7 @@
 | 8    | 14 Dec 2019 | [Workshop 4][workshop], [Retro][], [Coding Session][] |
 | -    | 21 Dec 2019 | Holiday Break |
 | -    | 28 Dec 2019 | Holiday Break |
-| 9    | 5 Jan 2020  | [SP][], [Coding Session][] |
+| 9    | 4 Jan 2020  | [SP][], [Coding Session][] |
 | 10   | 11 Jan 2020 | [Workshop 5][workshop], [Coding Session][] |
 | 11   | 18 Jan 2020 | [SP][], [Coding Session][] |
 | -    | 25 Jan 2020 | Chinese New Year |
