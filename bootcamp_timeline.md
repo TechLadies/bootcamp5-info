@@ -1,6 +1,6 @@
 # Bootcamp Timeline
 
-**Updated:** _Sun, 24 Nov 2019_
+**Updated:** _Sun, 1 Dec 2019_
 
 | Week | Date        | Program  |
 |:----:|-------------|:---------|
@@ -9,13 +9,13 @@
 | 3    | 9 Nov 2019  | [Workshop 2][workshop], [Coding Session][] |
 | 4    | 16 Nov 2019 | [SP][], [Coding Session][], [Retro][]|
 | 5    | 23 Nov 2019 | [Workshop 3][workshop], [Coding Session][] |
-| 6    | 30 Nov 2019 | [SP][], [Coding Session][] |
-| 7    | 7 Dec 2019  | [Coding Session][] |
-| 8    | 14 Dec 2019 | [Workshop 4][workshop], [Retro][], [Coding Session][] |
+| 6    | 30 Nov 2019 | [Coding Session][] |
+| 7    | 7 Dec 2019  | [SP][], [Coding Session][] |
+| 8    | 14 Dec 2019 | [Retro][], [Coding Session][] |
 | -    | 21 Dec 2019 | Holiday Break |
 | -    | 28 Dec 2019 | Holiday Break |
 | 9    | 4 Jan 2020  | [SP][], [Coding Session][] |
-| 10   | 11 Jan 2020 | [Workshop 5][workshop], [Coding Session][] |
+| 10   | 11 Jan 2020 | [Coding Session][] |
 | 11   | 18 Jan 2020 | [SP][], [Coding Session][] |
 | -    | 25 Jan 2020 | Chinese New Year |
 | 12   | 1 Feb 2020  | [Retro][], [Coding Session][] |
@@ -71,6 +71,16 @@
 ## Week 6 Agenda
 
 - **Participants:**
+    - Tech Lead
+    - Dev Coaches
+    - Bootcamp participants
+
+- **What:**
+    - Coding Session: teams work on user stories
+
+## Week 7 Agenda
+
+- **Participants:**
     - Product Lead
     - Tech Lead
     - Dev Coaches
@@ -83,28 +93,16 @@
         - Estimation of user stories
     - Coding Session: teams work on user stories
 
-## Week 7 Agenda
-
-- **Participants:**
-    - Tech Lead
-    - Dev Coaches
-    - Bootcamp participants
-
-- **What:**
-    - Coding Session: teams work on user stories
-
 ## Week 8 Agenda
 
 - **Participants:**
     - Product Lead
     - Tech Lead
     - Dev Coaches
-    - Curriculum Coaches
     - Bootcamp participants
     - UI/UX Designers
 
 - **What:**
-    - Workshop 4: TBC
     - Retrospective
     - Coding Session: teams work on user stories
 
@@ -128,11 +126,9 @@
 - **Participants:**
     - Tech Lead
     - Dev Coaches
-    - Curriculum Coaches
     - Bootcamp participants
 
 - **What:**
-    - Workshop 5: TBC
     - Coding Session: teams work on user stories
 
 ## Week 11 Agenda
